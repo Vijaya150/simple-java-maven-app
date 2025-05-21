@@ -16,5 +16,5 @@ the "Deliver" stage of your Pipeline.
 
 updated file.
 
-github webhooks update
+github webhooks update and
 Poll-scm.
