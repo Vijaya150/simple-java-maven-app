@@ -18,3 +18,4 @@ updated file.
 
 github webhooks update
 Poll-scm
+triggers
